@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  },
+  "name": "u-develop-it",
+  "description": "terminal cyan and gold prompt= PROMPT='%B%F{cyan}%2~%f %F{178}$ %f%b'",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonWisniewski/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonWisniewski/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/JasonWisniewski/u-develop-it#readme"
+}
